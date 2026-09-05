@@ -1,1 +1,26 @@
 
+name: kvote
+
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6,12,18 * * *"
+
+jobs:
+  poberi:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Poberi kvote
+        env:
+          K: ${{ secrets.ODDS_API_KEY }}
+        run: python3 poberi.py
+      - name: Shrani
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add -A data
+          git commit -m "kvote" || exit 0
+          git push
