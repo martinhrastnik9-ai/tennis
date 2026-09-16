@@ -11,11 +11,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "last_update": "2026-09-16T12:01:02Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -32,11 +32,11 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -53,19 +53,19 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.75
+         "price": 2.6
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.44
+         "price": 1.5
         }
        ]
       }
@@ -74,19 +74,19 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.75
+         "price": 2.6
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.44
+         "price": 1.5
         }
        ]
       }
@@ -95,11 +95,11 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -107,17 +107,17 @@
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.51
+         "price": 1.52
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.96
+         "price": 2.94
         },
         {
          "name": "Magdalena Frech",
@@ -130,54 +130,33 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.92
-        },
-        {
-         "name": "Magdalena Frech",
-         "price": 1.51
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
-       "outcomes": [
-        {
-         "name": "Caroline Dolehide",
-         "price": 2.96
+         "price": 2.88
         },
         {
          "name": "Magdalena Frech",
          "price": 1.52
         }
        ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
+      },
       {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "key": "h2h_lay",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.65
+         "price": 2.94
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.46
+         "price": 1.54
         }
        ]
       }
@@ -186,74 +165,11 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
-       "outcomes": [
-        {
-         "name": "Caroline Dolehide",
-         "price": 2.66
-        },
-        {
-         "name": "Magdalena Frech",
-         "price": 1.47
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
-       "outcomes": [
-        {
-         "name": "Caroline Dolehide",
-         "price": 2.55
-        },
-        {
-         "name": "Magdalena Frech",
-         "price": 1.43
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
-       "outcomes": [
-        {
-         "name": "Caroline Dolehide",
-         "price": 2.65
-        },
-        {
-         "name": "Magdalena Frech",
-         "price": 1.46
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betclic_fr",
-     "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -268,13 +184,34 @@
      ]
     },
     {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
+       "last_update": "2026-09-16T12:01:00Z",
+       "outcomes": [
+        {
+         "name": "Caroline Dolehide",
+         "price": 2.6
+        },
+        {
+         "name": "Magdalena Frech",
+         "price": 1.42
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-16T12:01:01Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -282,7 +219,49 @@
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.49
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betclic_fr",
+     "title": "Betclic (FR)",
+     "last_update": "2026-09-16T12:01:15Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:15Z",
+       "outcomes": [
+        {
+         "name": "Caroline Dolehide",
+         "price": 2.75
+        },
+        {
+         "name": "Magdalena Frech",
+         "price": 1.46
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-09-16T11:57:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T11:57:11Z",
+       "outcomes": [
+        {
+         "name": "Caroline Dolehide",
+         "price": 2.79
+        },
+        {
+         "name": "Magdalena Frech",
+         "price": 1.46
         }
        ]
       }
@@ -291,11 +270,11 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -312,11 +291,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -333,11 +312,11 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -354,11 +333,11 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -375,11 +354,11 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:00:38Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:00:38Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -396,11 +375,11 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-09-16T06:01:19Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:19Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -417,11 +396,11 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -438,19 +417,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.82
+         "price": 2.78
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.5
+         "price": 1.51
         }
        ]
       }
@@ -459,19 +438,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T11:59:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T11:59:52Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
-         "price": 2.77
+         "price": 2.78
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.49
+         "price": 1.48
         }
        ]
       }
@@ -480,11 +459,11 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:20Z",
        "outcomes": [
         {
          "name": "Caroline Dolehide",
@@ -492,7 +471,7 @@
         },
         {
          "name": "Magdalena Frech",
-         "price": 1.49
+         "price": 1.48
         }
        ]
       }
@@ -504,26 +483,26 @@
    "id": "56673e11053e9bea05afb963e37ae3f7",
    "sport_key": "tennis_wta_guadalajara_open",
    "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-16T20:30:00Z",
+   "commence_time": "2026-09-16T20:10:00Z",
    "home_team": "Zeynep Sonmez",
    "away_team": "Iva Jović",
    "bookmakers": [
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "last_update": "2026-09-16T12:01:02Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.24
+         "price": 1.23
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.0
+         "price": 4.1
         }
        ]
       }
@@ -532,19 +511,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.26
+         "price": 1.24
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.2
+         "price": 4.3
         }
        ]
       }
@@ -553,11 +532,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -574,11 +553,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -595,25 +574,11 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
-       "outcomes": [
-        {
-         "name": "Iva Jović",
-         "price": 1.26
-        },
-        {
-         "name": "Zeynep Sonmez",
-         "price": 4.5
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -621,28 +586,21 @@
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.8
+         "price": 4.4
         }
        ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
+      },
       {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "key": "h2h_lay",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.23
+         "price": 1.29
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.1
+         "price": 4.6
         }
        ]
       }
@@ -651,11 +609,11 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -672,11 +630,11 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -693,11 +651,11 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -714,11 +672,11 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
+     "last_update": "2026-09-16T12:01:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:15Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -726,7 +684,7 @@
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.1
+         "price": 4.2
         }
        ]
       }
@@ -735,11 +693,11 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -756,11 +714,11 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
+     "last_update": "2026-09-16T11:57:11Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
+       "last_update": "2026-09-16T11:57:11Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -777,11 +735,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -798,11 +756,11 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-09-16T06:01:19Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:19Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -819,11 +777,11 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -840,11 +798,11 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -861,11 +819,11 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:00:38Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:00:38Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -882,11 +840,11 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -903,19 +861,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.25
+         "price": 1.26
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.43
+         "price": 4.34
         }
        ]
       }
@@ -924,15 +882,15 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.26
+         "price": 1.28
         },
         {
          "name": "Zeynep Sonmez",
@@ -942,15 +900,15 @@
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.28
+         "price": 1.29
         },
         {
          "name": "Zeynep Sonmez",
-         "price": 4.8
+         "price": 4.6
         }
        ]
       }
@@ -959,11 +917,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T11:59:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T11:59:52Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -980,11 +938,11 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:20Z",
        "outcomes": [
         {
          "name": "Iva Jović",
@@ -1011,11 +969,11 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1032,11 +990,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "last_update": "2026-09-16T12:01:02Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1053,11 +1011,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1074,11 +1032,11 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1086,7 +1044,7 @@
         },
         {
          "name": "Taylor Townsend",
-         "price": 3.05
+         "price": 3.5
         }
        ]
       }
@@ -1095,54 +1053,33 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
-         "price": 1.35
+         "price": 1.36
         },
         {
          "name": "Taylor Townsend",
-         "price": 3.75
+         "price": 3.7
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
-         "price": 1.37
+         "price": 1.38
         },
         {
          "name": "Taylor Townsend",
-         "price": 3.85
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.33
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.25
+         "price": 3.75
         }
        ]
       }
@@ -1151,11 +1088,11 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1163,7 +1100,7 @@
         },
         {
          "name": "Taylor Townsend",
-         "price": 3.26
+         "price": 3.28
         }
        ]
       }
@@ -1172,11 +1109,11 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1193,11 +1130,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1214,92 +1151,15 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
+     "last_update": "2026-09-16T12:01:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:15Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
-         "price": 1.33
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.35
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.75
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.36
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.85
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.35
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.31
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.28
+         "price": 1.34
         },
         {
          "name": "Taylor Townsend",
@@ -1310,13 +1170,90 @@
      ]
     },
     {
-     "key": "gtbets",
-     "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.36
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.7
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.38
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-09-16T11:57:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T11:57:11Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.35
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.33
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-09-16T12:01:00Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:00Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.27
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-16T12:01:01Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1333,19 +1270,19 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
-         "price": 1.32
+         "price": 1.3
         },
         {
          "name": "Taylor Townsend",
-         "price": 3.1
+         "price": 3.15
         }
        ]
       }
@@ -1354,74 +1291,11 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.35
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-09-16T06:01:37Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.35
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-09-16T06:01:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:19Z",
-       "outcomes": [
-        {
-         "name": "Marta Kostyuk",
-         "price": 1.35
-        },
-        {
-         "name": "Taylor Townsend",
-         "price": 3.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1436,13 +1310,76 @@
      ]
     },
     {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-09-16T06:01:37Z",
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-16T12:00:38Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:00:38Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.34
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-16T12:01:24Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:24Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.34
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-16T12:01:00Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:00Z",
+       "outcomes": [
+        {
+         "name": "Marta Kostyuk",
+         "price": 1.33
+        },
+        {
+         "name": "Taylor Townsend",
+         "price": 3.35
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-09-16T12:01:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1459,11 +1396,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T11:59:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T11:59:52Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1480,11 +1417,11 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:20Z",
        "outcomes": [
         {
          "name": "Marta Kostyuk",
@@ -1504,18 +1441,18 @@
    "id": "594cd99fc2a2c803ec059d629feed51c",
    "sport_key": "tennis_wta_guadalajara_open",
    "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-17T00:30:00Z",
+   "commence_time": "2026-09-17T00:10:00Z",
    "home_team": "Kayla Day",
    "away_team": "Liudmila Samsonova",
    "bookmakers": [
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1532,33 +1469,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 3.3
+         "price": 3.15
         },
         {
          "name": "Liudmila Samsonova",
-         "price": 1.43
+         "price": 1.44
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 3.35
+         "price": 3.25
         },
         {
          "name": "Liudmila Samsonova",
-         "price": 1.44
+         "price": 1.46
         }
        ]
       }
@@ -1567,11 +1504,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "last_update": "2026-09-16T12:01:02Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1588,11 +1525,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1609,15 +1546,15 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 2.95
+         "price": 3.05
         },
         {
          "name": "Liudmila Samsonova",
@@ -1630,54 +1567,33 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 3.3
-        },
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.43
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
-       "outcomes": [
-        {
-         "name": "Kayla Day",
-         "price": 3.35
+         "price": 3.15
         },
         {
          "name": "Liudmila Samsonova",
          "price": 1.44
         }
        ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
+      },
       {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "key": "h2h_lay",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 2.95
+         "price": 3.25
         },
         {
          "name": "Liudmila Samsonova",
-         "price": 1.38
+         "price": 1.46
         }
        ]
       }
@@ -1686,11 +1602,11 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1707,11 +1623,11 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1728,11 +1644,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1749,15 +1665,15 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
+     "last_update": "2026-09-16T12:01:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:15Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 3.0
+         "price": 3.02
         },
         {
          "name": "Liudmila Samsonova",
@@ -1770,11 +1686,11 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
+     "last_update": "2026-09-16T11:57:11Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
+       "last_update": "2026-09-16T11:57:11Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1791,11 +1707,11 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1812,11 +1728,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1833,11 +1749,11 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1854,11 +1770,11 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:00:38Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:00:38Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1875,11 +1791,11 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-09-16T06:01:19Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:19Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1896,11 +1812,11 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1917,19 +1833,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Kayla Day",
-         "price": 3.03
+         "price": 3.0
         },
         {
          "name": "Liudmila Samsonova",
-         "price": 1.39
+         "price": 1.4
         }
        ]
       }
@@ -1938,11 +1854,11 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1959,11 +1875,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T11:59:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T11:59:52Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -1980,11 +1896,11 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Kayla Day",
@@ -2004,26 +1920,26 @@
    "id": "e9f2dc156ba348fcd57bfc5de2dde91b",
    "sport_key": "tennis_wta_guadalajara_open",
    "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-17T19:00:00Z",
+   "commence_time": "2026-09-17T18:00:00Z",
    "home_team": "Cristina Bucsa",
    "away_team": "Sara Bejlek",
    "bookmakers": [
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.3
+         "price": 2.4
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.45
+         "price": 1.48
         }
        ]
       }
@@ -2032,11 +1948,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
@@ -2053,19 +1969,19 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.54
+         "price": 2.51
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.51
+         "price": 1.52
         }
        ]
       }
@@ -2074,33 +1990,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 1.96
+         "price": 2.54
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.42
+         "price": 1.53
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 3.4
+         "price": 2.9
         },
         {
          "name": "Sara Bejlek",
-         "price": 2.04
+         "price": 1.65
         }
        ]
       }
@@ -2109,11 +2025,11 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
@@ -2130,11 +2046,11 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
@@ -2149,56 +2065,35 @@
      ]
     },
     {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 2.5
-        },
-        {
-         "name": "Sara Bejlek",
-         "price": 1.51
-        }
-       ]
-      }
-     ]
-    },
-    {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.1
+         "price": 2.54
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.44
+         "price": 1.6
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 3.3
+         "price": 2.66
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.9
+         "price": 1.65
         }
        ]
       }
@@ -2207,15 +2102,15 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.52
+         "price": 2.53
         },
         {
          "name": "Sara Bejlek",
@@ -2228,19 +2123,19 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
+     "last_update": "2026-09-16T12:01:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:15Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.38
+         "price": 2.44
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.47
+         "price": 1.49
         }
        ]
       }
@@ -2249,19 +2144,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
+     "last_update": "2026-09-16T11:57:11Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
+       "last_update": "2026-09-16T11:57:11Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.58
+         "price": 2.54
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.53
+         "price": 1.54
         }
        ]
       }
@@ -2270,11 +2165,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
@@ -2291,11 +2186,32 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
+       "outcomes": [
+        {
+         "name": "Cristina Bucsa",
+         "price": 2.6
+        },
+        {
+         "name": "Sara Bejlek",
+         "price": 1.54
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-09-16T12:01:02Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
@@ -2310,42 +2226,105 @@
      ]
     },
     {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.35
+         "price": 2.5
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.45
+         "price": 1.47
         }
        ]
       }
      ]
     },
     {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-16T12:00:38Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:38Z",
        "outcomes": [
         {
          "name": "Cristina Bucsa",
-         "price": 2.4
+         "price": 2.63
         },
         {
          "name": "Sara Bejlek",
-         "price": 1.5
+         "price": 1.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-16T12:01:24Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:24Z",
+       "outcomes": [
+        {
+         "name": "Cristina Bucsa",
+         "price": 2.63
+        },
+        {
+         "name": "Sara Bejlek",
+         "price": 1.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-09-16T12:01:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Cristina Bucsa",
+         "price": 2.55
+        },
+        {
+         "name": "Sara Bejlek",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-16T12:01:24Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Cristina Bucsa",
+         "price": 2.63
+        },
+        {
+         "name": "Sara Bejlek",
+         "price": 1.48
         }
        ]
       }
@@ -2357,26 +2336,26 @@
    "id": "d9227f791230695a4adf669298304799",
    "sport_key": "tennis_wta_guadalajara_open",
    "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-17T19:00:00Z",
+   "commence_time": "2026-09-17T18:00:00Z",
    "home_team": "Peyton Stearns",
    "away_team": "Sloane Stephens",
    "bookmakers": [
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-09-16T06:01:23Z",
+     "last_update": "2026-09-16T12:01:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:23Z",
+       "last_update": "2026-09-16T12:01:24Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.84
+         "price": 1.55
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.95
+         "price": 2.43
         }
        ]
       }
@@ -2385,33 +2364,33 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:25Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.42
+         "price": 1.58
         },
         {
          "name": "Sloane Stephens",
-         "price": 2.28
+         "price": 2.48
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:01:25Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.77
+         "price": 1.68
         },
         {
          "name": "Sloane Stephens",
-         "price": 11.0
+         "price": 2.72
         }
        ]
       }
@@ -2420,40 +2399,19 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.85
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.95
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-16T06:01:38Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
-       "outcomes": [
-        {
-         "name": "Peyton Stearns",
-         "price": 1.83
-        },
-        {
-         "name": "Sloane Stephens",
-         "price": 1.95
+         "price": 2.38
         }
        ]
       }
@@ -2462,19 +2420,19 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:00:37Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.85
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.95
+         "price": 2.38
         }
        ]
       }
@@ -2483,19 +2441,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-09-16T06:00:55Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:55Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.82
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 2.0
+         "price": 2.42
         }
        ]
       }
@@ -2504,19 +2462,19 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.88
+         "price": 1.62
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.93
+         "price": 2.3
         }
        ]
       }
@@ -2525,19 +2483,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.73
+         "price": 1.53
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.84
+         "price": 2.3
         }
        ]
       }
@@ -2546,19 +2504,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:01Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.83
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.95
+         "price": 2.37
         }
        ]
       }
@@ -2567,19 +2525,19 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-16T06:00:49Z",
+     "last_update": "2026-09-16T12:01:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:00:49Z",
+       "last_update": "2026-09-16T12:01:15Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.76
+         "price": 1.54
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.88
+         "price": 2.32
         }
        ]
       }
@@ -2588,19 +2546,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-09-16T06:01:20Z",
+     "last_update": "2026-09-16T11:57:11Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:20Z",
+       "last_update": "2026-09-16T11:57:11Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.87
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.98
+         "price": 2.46
         }
        ]
       }
@@ -2609,33 +2567,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-09-16T06:01:37Z",
+     "last_update": "2026-09-16T12:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.27
+         "price": 1.58
         },
         {
          "name": "Sloane Stephens",
-         "price": 2.12
+         "price": 2.42
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-09-16T06:01:37Z",
+       "last_update": "2026-09-16T12:01:23Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.9
+         "price": 1.7
         },
         {
          "name": "Sloane Stephens",
-         "price": 4.7
+         "price": 2.74
         }
        ]
       }
@@ -2644,19 +2602,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-16T06:01:18Z",
+     "last_update": "2026-09-16T12:00:39Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:18Z",
+       "last_update": "2026-09-16T12:00:39Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.8
+         "price": 1.6
         },
         {
          "name": "Sloane Stephens",
-         "price": 2.0
+         "price": 2.45
         }
        ]
       }
@@ -2665,19 +2623,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-16T06:01:38Z",
+     "last_update": "2026-09-16T12:01:02Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:38Z",
+       "last_update": "2026-09-16T12:01:02Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.7
+         "price": 1.56
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.9
+         "price": 2.4
         }
        ]
       }
@@ -2686,19 +2644,145 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-09-16T06:01:17Z",
+     "last_update": "2026-09-16T12:01:00Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-16T06:01:17Z",
+       "last_update": "2026-09-16T12:01:00Z",
        "outcomes": [
         {
          "name": "Peyton Stearns",
-         "price": 1.8
+         "price": 1.57
         },
         {
          "name": "Sloane Stephens",
-         "price": 1.9
+         "price": 2.25
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-16T12:01:24Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:24Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.56
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-16T12:01:24Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:24Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.56
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-16T12:00:38Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:00:38Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.56
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-09-16T12:01:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.51
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.33
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-09-16T12:01:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T12:01:23Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.58
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.52
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-09-16T11:59:52Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-16T11:59:52Z",
+       "outcomes": [
+        {
+         "name": "Peyton Stearns",
+         "price": 1.58
+        },
+        {
+         "name": "Sloane Stephens",
+         "price": 2.51
         }
        ]
       }
