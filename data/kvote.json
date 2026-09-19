@@ -1,267 +1,64 @@
 {
  "tennis_wta_guadalajara_open": [
   {
-   "id": "6f00202f7f5cae54635525119d54c145",
+   "id": "141e2b900ff27f0a57351e5a9ccfd860",
    "sport_key": "tennis_wta_guadalajara_open",
    "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-18T23:00:00Z",
-   "home_team": "Cristina Bucsa",
+   "commence_time": "2026-09-19T23:00:00Z",
+   "home_team": "Peyton Stearns",
    "away_team": "Iva Jović",
    "bookmakers": [
     {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-09-18T18:00:58Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.13
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.27
-        }
-       ]
-      }
-     ]
-    },
-    {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-09-18T18:00:58Z",
+     "last_update": "2026-09-19T06:01:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
+       "last_update": "2026-09-19T06:01:22Z",
        "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.3
-        },
         {
          "name": "Iva Jović",
-         "price": 1.29
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.4
+         "price": 1.32
         },
         {
-         "name": "Iva Jović",
-         "price": 1.31
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.6
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.29
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-09-18T18:00:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:35Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.6
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.29
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-09-18T18:00:08Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:08Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
+         "name": "Peyton Stearns",
          "price": 3.9
-        },
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-09-19T06:01:22Z",
+       "outcomes": [
         {
          "name": "Iva Jović",
-         "price": 1.26
+         "price": 1.35
+        },
+        {
+         "name": "Peyton Stearns",
+         "price": 4.1
         }
        ]
       }
      ]
     },
     {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-09-18T18:00:58Z",
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-19T06:00:59Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
+       "last_update": "2026-09-19T06:00:59Z",
        "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.4
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.28
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.5
-        },
         {
          "name": "Iva Jović",
          "price": 1.3
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-09-18T17:56:16Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T17:56:16Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.85
         },
         {
-         "name": "Iva Jović",
-         "price": 1.28
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "gtbets",
-     "title": "GTbets",
-     "last_update": "2026-09-18T18:00:10Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:10Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.73
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.8
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.26
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.85
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betclic_fr",
-     "title": "Betclic (FR)",
-     "last_update": "2026-09-18T18:00:47Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:47Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.95
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.26
+         "name": "Peyton Stearns",
+         "price": 3.45
         }
        ]
       }
@@ -270,274 +67,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-09-18T18:00:34Z",
+     "last_update": "2026-09-19T06:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
+       "last_update": "2026-09-19T06:01:23Z",
        "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.7
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.24
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-09-18T18:00:05Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:05Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.85
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-09-18T18:00:36Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:36Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.9
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-09-18T18:00:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:35Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.1
-        },
         {
          "name": "Iva Jović",
          "price": 1.27
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betonlineag",
-     "title": "BetOnline.ag",
-     "last_update": "2026-09-18T18:00:33Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:33Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 4.16
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.8
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.22
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.55
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.24
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.7
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.28
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.7
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.28
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-09-18T18:00:07Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:07Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.7
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.28
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-09-18T18:00:05Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:05Z",
-       "outcomes": [
-        {
-         "name": "Cristina Bucsa",
-         "price": 3.9
-        },
-        {
-         "name": "Iva Jović",
-         "price": 1.26
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2db727e751af296d00f68e578aa58e02",
-   "sport_key": "tennis_wta_guadalajara_open",
-   "sport_title": "WTA Guadalajara Open",
-   "commence_time": "2026-09-19T00:30:00Z",
-   "home_team": "Liudmila Samsonova",
-   "away_team": "Peyton Stearns",
-   "bookmakers": [
-    {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-09-18T18:00:58Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.73
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.34
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.74
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.38
+         "price": 3.2
         }
        ]
       }
@@ -546,40 +88,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-09-18T18:00:05Z",
+     "last_update": "2026-09-19T06:01:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:05Z",
+       "last_update": "2026-09-19T06:01:25Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.66
+         "name": "Iva Jović",
+         "price": 1.3
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.18
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.64
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.1
+         "price": 3.45
         }
        ]
       }
@@ -588,61 +109,19 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-09-18T18:00:47Z",
+     "last_update": "2026-09-19T06:00:07Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:47Z",
+       "last_update": "2026-09-19T06:00:07Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.7
+         "name": "Iva Jović",
+         "price": 1.27
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.15
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.66
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.18
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "gtbets",
-     "title": "GTbets",
-     "last_update": "2026-09-18T18:00:10Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:10Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.65
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.25
+         "price": 3.2
         }
        ]
       }
@@ -651,19 +130,19 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-09-18T18:00:34Z",
+     "last_update": "2026-09-19T06:01:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
+       "last_update": "2026-09-19T06:01:22Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
+         "name": "Iva Jović",
+         "price": 1.3
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
+         "price": 3.5
         }
        ]
       }
@@ -672,61 +151,40 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-09-18T18:00:35Z",
+     "last_update": "2026-09-19T06:00:59Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:35Z",
+       "last_update": "2026-09-19T06:00:59Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
+         "name": "Iva Jović",
+         "price": 1.3
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
+         "price": 3.5
         }
        ]
       }
      ]
     },
     {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-09-18T18:00:08Z",
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-19T06:00:59Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:08Z",
+       "last_update": "2026-09-19T06:00:59Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.68
+         "name": "Iva Jović",
+         "price": 1.31
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.19
+         "price": 3.52
         }
        ]
       }
@@ -735,19 +193,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-09-18T18:00:35Z",
+     "last_update": "2026-09-19T06:00:42Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:35Z",
+       "last_update": "2026-09-19T06:00:42Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.7
+         "name": "Iva Jović",
+         "price": 1.3
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.25
+         "price": 3.5
         }
        ]
       }
@@ -756,19 +214,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-09-18T18:00:36Z",
+     "last_update": "2026-09-19T06:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:36Z",
+       "last_update": "2026-09-19T06:01:01Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.66
+         "name": "Iva Jović",
+         "price": 1.26
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
+         "price": 3.2
         }
        ]
       }
@@ -777,159 +235,61 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-09-18T17:56:16Z",
+     "last_update": "2026-09-19T06:01:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T17:56:16Z",
+       "last_update": "2026-09-19T06:01:01Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.68
+         "name": "Iva Jović",
+         "price": 1.35
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.23
+         "price": 3.31
         }
        ]
       }
      ]
     },
     {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-09-18T18:00:59Z",
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-19T06:01:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
+       "last_update": "2026-09-19T06:01:23Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
+         "name": "Iva Jović",
+         "price": 1.32
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
+         "price": 3.42
         }
        ]
       }
      ]
     },
     {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-09-18T18:00:07Z",
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-19T06:00:37Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:07Z",
+       "last_update": "2026-09-19T06:00:37Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
+         "name": "Iva Jović",
+         "price": 1.33
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.62
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.12
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-09-18T18:00:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:34Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.67
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-09-18T18:00:58Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.73
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.34
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-09-18T18:00:58Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.74
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.38
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-09-18T18:00:59Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-09-18T18:00:59Z",
-       "outcomes": [
-        {
-         "name": "Liudmila Samsonova",
-         "price": 1.62
-        },
-        {
-         "name": "Peyton Stearns",
-         "price": 2.15
+         "price": 3.28
         }
        ]
       }
@@ -938,61 +298,75 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-09-18T18:00:58Z",
+     "last_update": "2026-09-19T06:01:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:58Z",
+       "last_update": "2026-09-19T06:01:22Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.71
+         "name": "Iva Jović",
+         "price": 1.31
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.24
+         "price": 3.74
         }
        ]
       }
      ]
     },
     {
-     "key": "betonlineag",
-     "title": "BetOnline.ag",
-     "last_update": "2026-09-18T18:00:33Z",
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-09-19T06:01:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:33Z",
+       "last_update": "2026-09-19T06:01:22Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.69
+         "name": "Iva Jović",
+         "price": 1.32
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.24
+         "price": 3.9
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-09-19T06:01:22Z",
+       "outcomes": [
+        {
+         "name": "Iva Jović",
+         "price": 1.35
+        },
+        {
+         "name": "Peyton Stearns",
+         "price": 4.1
         }
        ]
       }
      ]
     },
     {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-09-18T18:00:05Z",
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-09-19T06:00:59Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-09-18T18:00:05Z",
+       "last_update": "2026-09-19T06:00:59Z",
        "outcomes": [
         {
-         "name": "Liudmila Samsonova",
-         "price": 1.69
+         "name": "Iva Jović",
+         "price": 1.28
         },
         {
          "name": "Peyton Stearns",
-         "price": 2.15
+         "price": 3.3
         }
        ]
       }
