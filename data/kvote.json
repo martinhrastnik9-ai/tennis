@@ -1,1 +1,3712 @@
-{}
+{
+ "tennis_atp_china_open": [
+  {
+   "id": "f3149a5c4e24243211d462d3becfe39d",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Alex de Minaur",
+   "away_team": "Mariano Navone",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.16
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.25
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.18
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.25
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.14
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.15
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.16
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.16
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Alex de Minaur",
+         "price": 1.14
+        },
+        {
+         "name": "Mariano Navone",
+         "price": 5.6
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8e1b1ccdaf9bc406f149cfba186e0337",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Alexander Bublik",
+   "away_team": "Jakub Mensik",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.51
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.52
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.62
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.55
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.55
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.52
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.55
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Alexander Bublik",
+         "price": 2.55
+        },
+        {
+         "name": "Jakub Mensik",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "baf8f73b47a664fcede53262ff09e26d",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Alexander Zverev",
+   "away_team": "Cameron Norrie",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.12
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.12
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.46
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.11
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.12
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.11
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:56Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.11
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:58Z",
+       "outcomes": [
+        {
+         "name": "Alexander Zverev",
+         "price": 1.11
+        },
+        {
+         "name": "Cameron Norrie",
+         "price": 6.75
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ef3f453a337c9dae404be4cbf6772441",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Tallon Griekspoor",
+   "away_team": "Andrey Rublev",
+   "bookmakers": [
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.43
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.46
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.74
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.45
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.43
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.45
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.78
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.45
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Andrey Rublev",
+         "price": 1.44
+        },
+        {
+         "name": "Tallon Griekspoor",
+         "price": 2.76
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e16bcc00525542f000cc3fc617c7abc4",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Juan Manuel Cerundolo",
+   "away_team": "Bu Yunchaokete",
+   "bookmakers": [
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.54
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.54
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.56
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.38
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.56
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.38
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.58
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.61
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Bu Yunchaokete",
+         "price": 1.54
+        },
+        {
+         "name": "Juan Manuel Cerundolo",
+         "price": 2.48
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cd50cbdecb590b3b66ff69dac64b1c7d",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Karen Khachanov",
+   "away_team": "Felix Auger-Aliassime",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.59
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.34
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.62
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.31
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.57
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.38
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.61
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.29
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.61
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.29
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.6
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.35
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:58Z",
+       "outcomes": [
+        {
+         "name": "Felix Auger-Aliassime",
+         "price": 1.57
+        },
+        {
+         "name": "Karen Khachanov",
+         "price": 2.38
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8385aac113ecfb54b50592228c73e06f",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Roman Safiullin",
+   "away_team": "Flavio Cobolli",
+   "bookmakers": [
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.76
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.06
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.81
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.02
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.8
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.78
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.01
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.76
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.06
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.78
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.05
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:56Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.78
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.01
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Flavio Cobolli",
+         "price": 1.76
+        },
+        {
+         "name": "Roman Safiullin",
+         "price": 2.05
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "726e426c5068e86e57b7f81891e0136e",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Learner Tien",
+   "away_team": "Hubert Hurkacz",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.32
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.31
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.62
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.38
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.35
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:56Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.33
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.37
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.33
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Hubert Hurkacz",
+         "price": 2.35
+        },
+        {
+         "name": "Learner Tien",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0c39522d563ce8eb6ce47ba0d07b50d8",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Ignacio Buse",
+   "away_team": "Quentin Halys",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.29
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.61
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.37
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.23
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.32
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.32
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.27
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.64
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Ignacio Buse",
+         "price": 2.23
+        },
+        {
+         "name": "Quentin Halys",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "35b54ab48cccdd5228a9cbb1b90e93f9",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Jan-Lennard Struff",
+   "away_team": "Thiago Agustin Tirante",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.22
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.65
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.21
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.23
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.65
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.17
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.17
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.23
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Jan-Lennard Struff",
+         "price": 2.23
+        },
+        {
+         "name": "Thiago Agustin Tirante",
+         "price": 1.65
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c1bae50988ffee351524f95dacfa76f7",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Juncheng Shang",
+   "away_team": "Sebastian Baez",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.66
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.67
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.21
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.68
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.18
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.66
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.18
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.66
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.18
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.66
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.23
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Juncheng Shang",
+         "price": 1.68
+        },
+        {
+         "name": "Sebastian Baez",
+         "price": 2.18
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1b9a358b39f42e7ac16354a717729f4f",
+   "sport_key": "tennis_atp_china_open",
+   "sport_title": "ATP China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Nuno Borges",
+   "away_team": "Novak Djokovic",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T17:59:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T17:59:49Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.42
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.84
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:11Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:11Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.45
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.76
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.42
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-09-28T18:01:56Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.44
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.44
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:54Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.45
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.78
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:00:58Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Novak Djokovic",
+         "price": 1.42
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.85
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "tennis_wta_china_open": [
+  {
+   "id": "dd870a99aafe250eeb6eb9e769dccbea",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Viktorija Golubic",
+   "away_team": "Alina Korneeva",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.55
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.56
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.56
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.51
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.59
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.5
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.52
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.55
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.56
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Alina Korneeva",
+         "price": 1.44
+        },
+        {
+         "name": "Viktorija Golubic",
+         "price": 2.35
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b7d3040c0a9c64be8117d3301393f49",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Janice Tjen",
+   "away_team": "Anhelina Kalinina",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.93
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.86
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.94
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:13Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.94
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 2.06
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.77
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 2.0
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.9
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.94
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Anhelina Kalinina",
+         "price": 1.87
+        },
+        {
+         "name": "Janice Tjen",
+         "price": 1.71
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8a371753095dc91ecfc727a9bf51b90c",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Anna Bondár",
+   "away_team": "Renata Zarazua",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.45
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.73
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.43
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:13Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.43
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.45
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.79
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.44
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.44
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.43
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Anna Bondár",
+         "price": 1.38
+        },
+        {
+         "name": "Renata Zarazua",
+         "price": 2.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7dc77d55cdf748e75a18b1dbcd1aae68",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Darja Vidmanova",
+   "away_team": "Maria Timofeeva",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.22
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.65
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.28
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:13Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.28
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.33
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.38
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.3
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.62
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.28
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Darja Vidmanova",
+         "price": 2.1
+        },
+        {
+         "name": "Maria Timofeeva",
+         "price": 1.54
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "32e7c1cc65b0c3a18b06e9e009cd3e35",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Elena Gabriela Ruse",
+   "away_team": "Lilli Tagger",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.92
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.87
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.88
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.88
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.93
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.88
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.95
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.95
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.87
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.88
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Elena Gabriela Ruse",
+         "price": 1.82
+        },
+        {
+         "name": "Lilli Tagger",
+         "price": 1.75
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "025d305a5487d45a414b2e270fa4754b",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Petra Marcinko",
+   "away_team": "Magdalena Frech",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.47
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.49
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.49
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.43
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.81
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.4
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.43
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.85
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.49
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.63
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Magdalena Frech",
+         "price": 1.37
+        },
+        {
+         "name": "Petra Marcinko",
+         "price": 2.6
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3d7ca27dc89b58d3883de95847cfc74e",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Maya Joint",
+   "away_team": "Sinja Kraus",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.28
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.64
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.28
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.28
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.3
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.58
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.33
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.3
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.55
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.28
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Maya Joint",
+         "price": 1.24
+        },
+        {
+         "name": "Sinja Kraus",
+         "price": 3.2
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2ef1631ed3c54fa2c2d6903629201493",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Mayar Sherif",
+   "away_team": "Polina Kudermetova",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.46
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.54
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.48
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.48
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.56
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.52
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.5
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.55
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.52
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.48
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Mayar Sherif",
+         "price": 2.3
+        },
+        {
+         "name": "Polina Kudermetova",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "018b47464f16ca78f46bd6e72e2227a2",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Oleksandra Oliynykova",
+   "away_team": "Yue Yuan",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.57
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.7
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.7
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.58
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.51
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.5
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.53
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.6
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.7
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Oleksandra Oliynykova",
+         "price": 2.35
+        },
+        {
+         "name": "Yue Yuan",
+         "price": 1.44
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0a5724597a812c45faf15e4bb13f4f0e",
+   "sport_key": "tennis_wta_china_open",
+   "sport_title": "WTA China Open",
+   "commence_time": "2026-09-30T02:00:00Z",
+   "home_team": "Taylah Preston",
+   "away_team": "Tamara Korpatsch",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-09-28T18:01:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:55Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.66
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.47
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-09-28T18:00:57Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:00:57Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.65
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-09-28T18:01:13Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.65
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-09-28T18:01:12Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:12Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.86
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-09-28T18:01:25Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:25Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.9
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.85
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-09-28T18:01:40Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:40Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.65
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.48
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-09-28T18:01:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-09-28T18:01:26Z",
+       "outcomes": [
+        {
+         "name": "Tamara Korpatsch",
+         "price": 2.55
+        },
+        {
+         "name": "Taylah Preston",
+         "price": 1.37
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
