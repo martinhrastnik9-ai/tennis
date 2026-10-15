@@ -1,401 +1,6 @@
 {
  "tennis_atp_shanghai_masters": [
   {
-   "id": "9f79a8611b72f362103f75adae40aa9f",
-   "sport_key": "tennis_atp_shanghai_masters",
-   "sport_title": "ATP Shanghai Masters",
-   "commence_time": "2026-10-15T10:07:42Z",
-   "home_team": "Alexander Zverev",
-   "away_team": "Alex de Minaur",
-   "bookmakers": [
-    {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-10-15T10:26:08Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:08Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.54
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.82
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:08Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.55
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.86
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-10-15T10:26:09Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.47
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.65
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:36Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.47
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:10Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.48
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.54
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:36Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.38
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.45
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:37Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.41
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.47
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.63
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.47
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.63
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.71
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.21
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-10-15T10:26:07Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.51
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.84
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:07Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.54
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.98
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:37Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.41
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.35
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:36Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.45
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.45
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-10-15T10:26:09Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.45
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betonlineag",
-     "title": "BetOnline.ag",
-     "last_update": "2026-10-15T10:13:21Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:13:21Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.51
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.7
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-15T10:25:17Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:17Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.5
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-10-15T10:25:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.5
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:18Z",
-       "outcomes": [
-        {
-         "name": "Alexander Zverev",
-         "price": 1.5
-        },
-        {
-         "name": "Alex de Minaur",
-         "price": 2.65
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "ef2bb3c52f4e2850db169deeec5c619b",
    "sport_key": "tennis_atp_shanghai_masters",
    "sport_title": "ATP Shanghai Masters",
@@ -406,19 +11,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:18Z",
+     "last_update": "2026-10-15T15:48:55Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:18Z",
+       "last_update": "2026-10-15T15:48:55Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.17
+         "price": 2.12
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.7
+         "price": 1.73
         }
        ]
       }
@@ -427,15 +32,113 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-10-15T10:25:53Z",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.18
+         "price": 2.14
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.74
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 2.16
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.84
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 2.2
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.86
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-10-15T15:49:46Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:46Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 2.2
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-10-15T15:49:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:50Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 2.2
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-10-15T15:49:52Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:52Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 2.11
         },
         {
          "name": "Rafael Jodar",
@@ -446,133 +149,35 @@
      ]
     },
     {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-10-15T10:26:08Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:08Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 2.24
-        },
-        {
-         "name": "Rafael Jodar",
-         "price": 1.8
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:08Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 2.26
-        },
-        {
-         "name": "Rafael Jodar",
-         "price": 1.81
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:36Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 2.17
-        },
-        {
-         "name": "Rafael Jodar",
-         "price": 1.7
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-10-15T10:26:09Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 2.17
-        },
-        {
-         "name": "Rafael Jodar",
-         "price": 1.7
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:10Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 2.15
-        },
-        {
-         "name": "Rafael Jodar",
-         "price": 1.69
-        }
-       ]
-      }
-     ]
-    },
-    {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:19Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:19Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.24
+         "price": 2.16
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.8
+         "price": 1.85
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:19Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.26
+         "price": 2.18
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.81
+         "price": 1.86
         }
        ]
       }
@@ -581,19 +186,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.1
+         "price": 2.2
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.64
+         "price": 1.65
         }
        ]
       }
@@ -602,11 +207,11 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-10-15T10:26:09Z",
+     "last_update": "2026-10-15T15:49:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
+       "last_update": "2026-10-15T15:49:47Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -623,11 +228,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -644,19 +249,19 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.23
+         "price": 2.08
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.65
+         "price": 1.75
         }
        ]
       }
@@ -665,19 +270,19 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.23
+         "price": 2.08
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.65
+         "price": 1.75
         }
        ]
       }
@@ -686,19 +291,19 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.14
+         "price": 1.97
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.57
+         "price": 1.68
         }
        ]
       }
@@ -707,19 +312,19 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.23
+         "price": 2.08
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.65
+         "price": 1.75
         }
        ]
       }
@@ -728,11 +333,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:49:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:49:29Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -749,11 +354,11 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:05Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -770,11 +375,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:49:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:49:27Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -791,11 +396,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-10-15T10:25:17Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:17Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -812,19 +417,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:19Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:19Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.22
+         "price": 2.12
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.74
+         "price": 1.81
         }
        ]
       }
@@ -833,19 +438,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:05Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.18
+         "price": 2.06
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.72
+         "price": 1.79
         }
        ]
       }
@@ -854,19 +459,19 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:52Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 2.1
+         "price": 2.0
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.71
+         "price": 1.77
         }
        ]
       }
@@ -885,11 +490,11 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -897,7 +502,7 @@
         },
         {
          "name": "Tommy Paul",
-         "price": 2.6
+         "price": 2.8
         }
        ]
       }
@@ -906,19 +511,19 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:10Z",
+     "last_update": "2026-10-15T15:49:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:49:52Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.46
+         "price": 1.44
         },
         {
          "name": "Tommy Paul",
-         "price": 2.69
+         "price": 2.76
         }
        ]
       }
@@ -927,11 +532,11 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:49:46Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:49:46Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -948,11 +553,11 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-10-15T10:26:09Z",
+     "last_update": "2026-10-15T15:49:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
+       "last_update": "2026-10-15T15:49:50Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -969,19 +574,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-10-15T10:25:53Z",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.48
+         "price": 1.46
         },
         {
          "name": "Tommy Paul",
-         "price": 2.73
+         "price": 2.8
         }
        ]
       }
@@ -990,19 +595,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:18Z",
+     "last_update": "2026-10-15T15:48:55Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:18Z",
+       "last_update": "2026-10-15T15:48:55Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.47
+         "price": 1.45
         },
         {
          "name": "Tommy Paul",
-         "price": 2.7
+         "price": 2.78
         }
        ]
       }
@@ -1011,11 +616,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1032,11 +637,25 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-15T10:26:08Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:08Z",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Daniil Medvedev",
+         "price": 1.49
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 3.0
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1044,21 +663,7 @@
         },
         {
          "name": "Tommy Paul",
-         "price": 2.96
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:08Z",
-       "outcomes": [
-        {
-         "name": "Daniil Medvedev",
-         "price": 1.51
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 3.0
+         "price": 3.05
         }
        ]
       }
@@ -1067,15 +672,15 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.44
+         "price": 1.45
         },
         {
          "name": "Tommy Paul",
@@ -1088,15 +693,15 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.44
+         "price": 1.45
         },
         {
          "name": "Tommy Paul",
@@ -1109,11 +714,11 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1121,7 +726,7 @@
         },
         {
          "name": "Tommy Paul",
-         "price": 2.63
+         "price": 2.6
         }
        ]
       }
@@ -1130,15 +735,15 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.44
+         "price": 1.45
         },
         {
          "name": "Tommy Paul",
@@ -1151,11 +756,11 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-10-15T10:26:09Z",
+     "last_update": "2026-10-15T15:49:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:09Z",
+       "last_update": "2026-10-15T15:49:47Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1172,11 +777,25 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:19Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:19Z",
+       "outcomes": [
+        {
+         "name": "Daniil Medvedev",
+         "price": 1.49
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 3.0
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-10-15T15:50:19Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1184,21 +803,7 @@
         },
         {
          "name": "Tommy Paul",
-         "price": 2.96
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:07Z",
-       "outcomes": [
-        {
-         "name": "Daniil Medvedev",
-         "price": 1.51
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 3.0
+         "price": 3.05
         }
        ]
       }
@@ -1207,11 +812,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:49:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:49:27Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1228,11 +833,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-10-15T10:25:17Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:17Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1249,11 +854,11 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:36Z",
+     "last_update": "2026-10-15T15:50:05Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:36Z",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1270,11 +875,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:49:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:49:29Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1291,19 +896,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:19Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:19Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.47
+         "price": 1.46
         },
         {
          "name": "Tommy Paul",
-         "price": 2.9
+         "price": 2.94
         }
        ]
       }
@@ -1312,11 +917,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:05Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
@@ -1333,19 +938,442 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:52Z",
        "outcomes": [
         {
          "name": "Daniil Medvedev",
-         "price": 1.47
+         "price": 1.44
         },
         {
          "name": "Tommy Paul",
-         "price": 2.75
+         "price": 2.85
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "85243da216a4bb91389e3da1f356f52c",
+   "sport_key": "tennis_atp_shanghai_masters",
+   "sport_title": "ATP Shanghai Masters",
+   "commence_time": "2026-10-17T04:00:00Z",
+   "home_team": "Alexander Zverev",
+   "away_team": "Alejandro Davidovich Fokina",
+   "bookmakers": [
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-10-15T15:50:20Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:20Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.85
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.28
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.85
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.26
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-10-15T15:49:52Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:52Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.8
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.26
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-10-15T15:48:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:48:55Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.7
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.28
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.65
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.2
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.85
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.26
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-10-15T15:50:20Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:20Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.85
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.26
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.93
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.28
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.3
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.22
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-10-15T15:49:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:50Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.8
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.27
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-10-15T15:49:46Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:46Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.8
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.27
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-10-15T15:49:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:29Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.35
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.22
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-10-15T15:50:05Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:05Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.8
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.26
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.9
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.33
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 4.1
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.34
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-10-15T15:49:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:27Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.5
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.5
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-10-15T15:50:19Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:19Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.71
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.32
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-10-15T15:50:05Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:05Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.7
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-10-15T15:49:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:47Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 3.7
+        },
+        {
+         "name": "Alexander Zverev",
+         "price": 1.27
         }
        ]
       }
@@ -1356,50 +1384,71 @@
  ],
  "tennis_wta_wuhan_open": [
   {
-   "id": "8d3e349cd5cea6ee46daea638d17de1f",
+   "id": "9289b5c0affcb229b5ab33881b4aca00",
    "sport_key": "tennis_wta_wuhan_open",
    "sport_title": "WTA Wuhan Open",
-   "commence_time": "2026-10-15T09:50:32Z",
-   "home_team": "Jasmine Paolini",
-   "away_team": "Sonay Kartal",
+   "commence_time": "2026-10-16T03:00:00Z",
+   "home_team": "Diana Shnaider",
+   "away_team": "Jelena Ostapenko",
    "bookmakers": [
     {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:35Z",
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.45
+         "name": "Diana Shnaider",
+         "price": 1.41
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.3
+         "name": "Jelena Ostapenko",
+         "price": 3.01
         }
        ]
       }
      ]
     },
     {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.4
+         "name": "Diana Shnaider",
+         "price": 1.38
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.3
+         "name": "Jelena Ostapenko",
+         "price": 3.05
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-15T15:49:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:28Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 1.32
+        },
+        {
+         "name": "Jelena Ostapenko",
+         "price": 2.9
         }
        ]
       }
@@ -1408,33 +1457,54 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-15T10:26:10Z",
+     "last_update": "2026-10-15T15:50:04Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:04Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 4.0
+         "name": "Diana Shnaider",
+         "price": 1.48
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.33
+         "name": "Jelena Ostapenko",
+         "price": 3.0
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:04Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 4.1
+         "name": "Diana Shnaider",
+         "price": 1.5
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.34
+         "name": "Jelena Ostapenko",
+         "price": 3.1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-10-15T15:49:31Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:31Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 1.38
+        },
+        {
+         "name": "Jelena Ostapenko",
+         "price": 3.05
         }
        ]
       }
@@ -1443,19 +1513,40 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:38Z",
+     "last_update": "2026-10-15T15:49:48Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:38Z",
+       "last_update": "2026-10-15T15:49:48Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 4.0
+         "name": "Diana Shnaider",
+         "price": 1.41
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.25
+         "name": "Jelena Ostapenko",
+         "price": 2.93
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-10-15T15:49:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:28Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 1.38
+        },
+        {
+         "name": "Jelena Ostapenko",
+         "price": 3.05
         }
        ]
       }
@@ -1464,19 +1555,19 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:12Z",
+     "last_update": "2026-10-15T15:49:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:12Z",
+       "last_update": "2026-10-15T15:49:52Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.6
+         "name": "Diana Shnaider",
+         "price": 1.39
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.29
+         "name": "Jelena Ostapenko",
+         "price": 2.97
         }
        ]
       }
@@ -1485,19 +1576,40 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:25Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.4
+         "name": "Diana Shnaider",
+         "price": 1.44
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.3
+         "name": "Jelena Ostapenko",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-10-15T15:49:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:47Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 1.44
+        },
+        {
+         "name": "Jelena Ostapenko",
+         "price": 2.75
         }
        ]
       }
@@ -1506,61 +1618,40 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-10-15T10:24:08Z",
+     "last_update": "2026-10-15T15:48:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:24:08Z",
+       "last_update": "2026-10-15T15:48:15Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.23
+         "name": "Diana Shnaider",
+         "price": 1.35
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.24
+         "name": "Jelena Ostapenko",
+         "price": 2.75
         }
        ]
       }
      ]
     },
     {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:53Z",
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-10-15T15:49:30Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:49:30Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.5
+         "name": "Diana Shnaider",
+         "price": 1.4
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.2
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:53Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 3.65
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.22
+         "name": "Jelena Ostapenko",
+         "price": 3.0
         }
        ]
       }
@@ -1569,358 +1660,19 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Jasmine Paolini",
-         "price": 3.6
+         "name": "Diana Shnaider",
+         "price": 1.37
         },
         {
-         "name": "Sonay Kartal",
-         "price": 1.25
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 3.65
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.27
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 3.35
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.18
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 3.5
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.23
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 3.65
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.27
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
-       "outcomes": [
-        {
-         "name": "Jasmine Paolini",
-         "price": 2.82
-        },
-        {
-         "name": "Sonay Kartal",
-         "price": 1.47
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26e9655a717f90ad0d2cf1325135ae63",
-   "sport_key": "tennis_wta_wuhan_open",
-   "sport_title": "WTA Wuhan Open",
-   "commence_time": "2026-10-15T11:00:00Z",
-   "home_team": "Ashlyn Krueger",
-   "away_team": "Iga Swiatek",
-   "bookmakers": [
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 7.5
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.03
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-10-15T10:26:10Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 10.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.1
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:10Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 10.5
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.11
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:12Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:12Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 7.8
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:38Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:38Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.1
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.07
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.06
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.25
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.09
+         "name": "Jelena Ostapenko",
+         "price": 3.0
         }
        ]
       }
@@ -1929,19 +1681,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-10-15T10:25:52Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:52Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 7.1
+         "name": "Diana Shnaider",
+         "price": 1.34
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.05
+         "name": "Jelena Ostapenko",
+         "price": 2.75
         }
        ]
       }
@@ -1950,61 +1702,19 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:50:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:50:22Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
+         "name": "Diana Shnaider",
+         "price": 1.4
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.0
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betclic_fr",
-     "title": "Betclic (FR)",
-     "last_update": "2026-10-15T10:24:08Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:24:08Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 7.6
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.08
+         "name": "Jelena Ostapenko",
+         "price": 3.0
         }
        ]
       }
@@ -2013,19 +1723,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:53Z",
+     "last_update": "2026-10-15T15:50:04Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:04Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 7.75
+         "name": "Diana Shnaider",
+         "price": 1.35
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.07
+         "name": "Jelena Ostapenko",
+         "price": 2.75
         }
        ]
       }
@@ -2034,40 +1744,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:53Z",
+     "last_update": "2026-10-15T15:50:05Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 9.0
+         "name": "Diana Shnaider",
+         "price": 1.39
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.08
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 8.2
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.04
+         "name": "Jelena Ostapenko",
+         "price": 2.95
         }
        ]
       }
@@ -2076,19 +1765,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 9.14
+         "name": "Diana Shnaider",
+         "price": 1.44
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.08
+         "name": "Jelena Ostapenko",
+         "price": 2.97
         }
        ]
       }
@@ -2097,40 +1786,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:28Z",
        "outcomes": [
         {
-         "name": "Ashlyn Krueger",
-         "price": 9.95
+         "name": "Diana Shnaider",
+         "price": 1.42
         },
         {
-         "name": "Iga Swiatek",
-         "price": 1.05
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-10-15T10:25:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:52Z",
-       "outcomes": [
-        {
-         "name": "Ashlyn Krueger",
-         "price": 9.95
-        },
-        {
-         "name": "Iga Swiatek",
-         "price": 1.05
+         "name": "Jelena Ostapenko",
+         "price": 3.0
         }
        ]
       }
@@ -2139,29 +1807,50 @@
    ]
   },
   {
-   "id": "17f1b87340ae28fa6ddb8bdcdbe83c07",
+   "id": "fa44de36bbafc64882e41dbe11b297d0",
    "sport_key": "tennis_wta_wuhan_open",
    "sport_title": "WTA Wuhan Open",
-   "commence_time": "2026-10-15T12:10:00Z",
-   "home_team": "Ann Li",
-   "away_team": "Janice Tjen",
+   "commence_time": "2026-10-16T04:30:00Z",
+   "home_team": "Elina Svitolina",
+   "away_team": "Sonay Kartal",
    "bookmakers": [
     {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.51
+         "name": "Elina Svitolina",
+         "price": 1.49
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.5
+         "name": "Sonay Kartal",
+         "price": 2.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.45
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.7
         }
        ]
       }
@@ -2170,96 +1859,201 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-15T10:26:10Z",
+     "last_update": "2026-10-15T15:50:04Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:04Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.52
+         "name": "Elina Svitolina",
+         "price": 1.56
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.9
+         "name": "Sonay Kartal",
+         "price": 2.76
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:04Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.53
+         "name": "Elina Svitolina",
+         "price": 1.57
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.92
+         "name": "Sonay Kartal",
+         "price": 2.78
         }
        ]
       }
      ]
     },
     {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-10-15T15:50:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:22Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.51
+         "name": "Elina Svitolina",
+         "price": 1.49
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.5
+         "name": "Sonay Kartal",
+         "price": 2.65
         }
        ]
       }
      ]
     },
     {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.51
+         "name": "Elina Svitolina",
+         "price": 1.42
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.45
-        },
-        {
-         "name": "Janice Tjen",
+         "name": "Sonay Kartal",
          "price": 2.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-10-15T15:49:52Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:52Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.47
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-10-15T15:49:30Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:30Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.49
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.65
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betclic_fr",
+     "title": "Betclic (FR)",
+     "last_update": "2026-10-15T15:48:15Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:48:15Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.44
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.47
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-10-15T15:49:48Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:48Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.48
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-10-15T15:50:04Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:04Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.43
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-10-15T15:50:05Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:05Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 1.48
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 2.6
         }
        ]
       }
@@ -2268,18 +2062,18 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:25Z",
        "outcomes": [
         {
-         "name": "Ann Li",
+         "name": "Elina Svitolina",
          "price": 1.5
         },
         {
-         "name": "Janice Tjen",
+         "name": "Sonay Kartal",
          "price": 2.6
         }
        ]
@@ -2289,18 +2083,18 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:47Z",
        "outcomes": [
         {
-         "name": "Ann Li",
+         "name": "Elina Svitolina",
          "price": 1.5
         },
         {
-         "name": "Janice Tjen",
+         "name": "Sonay Kartal",
          "price": 2.6
         }
        ]
@@ -2308,20 +2102,20 @@
      ]
     },
     {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:38Z",
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:38Z",
+       "last_update": "2026-10-15T15:49:28Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.5
+         "name": "Elina Svitolina",
+         "price": 1.4
         },
         {
-         "name": "Janice Tjen",
+         "name": "Sonay Kartal",
          "price": 2.6
         }
        ]
@@ -2329,188 +2123,62 @@
      ]
     },
     {
-     "key": "betclic_fr",
-     "title": "Betclic (FR)",
-     "last_update": "2026-10-15T10:24:08Z",
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:24:08Z",
+       "last_update": "2026-10-15T15:49:28Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.46
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.63
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:35Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.5
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-10-15T10:25:37Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.5
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-10-15T10:25:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:52Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
+         "name": "Elina Svitolina",
          "price": 1.45
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.5
+         "name": "Sonay Kartal",
+         "price": 2.75
         }
        ]
       }
      ]
     },
     {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Ann Li",
+         "name": "Elina Svitolina",
          "price": 1.45
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.55
+         "name": "Sonay Kartal",
+         "price": 2.75
         }
        ]
       }
      ]
     },
     {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:12Z",
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-10-15T15:49:31Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:12Z",
+       "last_update": "2026-10-15T15:49:31Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.5
+         "name": "Elina Svitolina",
+         "price": 1.45
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.57
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.52
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:53Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.44
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.6
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:53Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.48
-        },
-        {
-         "name": "Janice Tjen",
+         "name": "Sonay Kartal",
          "price": 2.75
         }
        ]
@@ -2520,19 +2188,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-15T10:26:07Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:07Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.52
+         "name": "Elina Svitolina",
+         "price": 1.49
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.74
+         "name": "Sonay Kartal",
+         "price": 2.78
         }
        ]
       }
@@ -2541,40 +2209,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:28Z",
        "outcomes": [
         {
-         "name": "Ann Li",
-         "price": 1.53
+         "name": "Elina Svitolina",
+         "price": 1.49
         },
         {
-         "name": "Janice Tjen",
-         "price": 2.65
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-10-15T10:25:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:52Z",
-       "outcomes": [
-        {
-         "name": "Ann Li",
-         "price": 1.53
-        },
-        {
-         "name": "Janice Tjen",
-         "price": 2.6
+         "name": "Sonay Kartal",
+         "price": 2.77
         }
        ]
       }
@@ -2586,22 +2233,22 @@
    "id": "57c829ee7737c8e2e9dc552eea9f699f",
    "sport_key": "tennis_wta_wuhan_open",
    "sport_title": "WTA Wuhan Open",
-   "commence_time": "2026-10-16T04:00:00Z",
+   "commence_time": "2026-10-16T06:00:00Z",
    "home_team": "Maja Chwalinska",
    "away_team": "Maria Sakkari",
    "bookmakers": [
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-15T10:26:10Z",
+     "last_update": "2026-10-15T15:50:04Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 1.89
+         "price": 2.22
         },
         {
          "name": "Maria Sakkari",
@@ -2611,15 +2258,15 @@
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-15T10:26:10Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.54
+         "price": 2.26
         },
         {
          "name": "Maria Sakkari",
-         "price": 2.12
+         "price": 1.82
         }
        ]
       }
@@ -2628,19 +2275,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-10-15T10:25:38Z",
+     "last_update": "2026-10-15T15:49:48Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:38Z",
+       "last_update": "2026-10-15T15:49:48Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.25
+         "price": 2.12
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.65
+         "price": 1.73
         }
        ]
       }
@@ -2649,57 +2296,15 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-10-15T10:25:35Z",
+     "last_update": "2026-10-15T15:49:30Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:35Z",
+       "last_update": "2026-10-15T15:49:30Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.24
-        },
-        {
-         "name": "Maria Sakkari",
-         "price": 1.65
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-15T10:26:12Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:26:12Z",
-       "outcomes": [
-        {
-         "name": "Maja Chwalinska",
-         "price": 2.17
-        },
-        {
-         "name": "Maria Sakkari",
-         "price": 1.68
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
-       "outcomes": [
-        {
-         "name": "Maja Chwalinska",
-         "price": 2.2
+         "price": 2.16
         },
         {
          "name": "Maria Sakkari",
@@ -2710,13 +2315,13 @@
      ]
     },
     {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-10-15T10:25:52Z",
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-10-15T15:49:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:52Z",
+       "last_update": "2026-10-15T15:49:52Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
@@ -2724,24 +2329,45 @@
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.57
+         "price": 1.73
         }
        ]
       }
      ]
     },
     {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-10-15T15:50:20Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:20Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.3
+         "price": 2.13
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-10-15T15:50:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:03Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.0
         },
         {
          "name": "Maria Sakkari",
@@ -2752,21 +2378,42 @@
      ]
     },
     {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-10-15T15:50:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:25Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.3
+         "price": 2.1
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.62
+         "price": 1.73
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-10-15T15:49:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.1
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.73
         }
        ]
       }
@@ -2775,19 +2422,19 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-10-15T10:25:37Z",
+     "last_update": "2026-10-15T15:50:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:37Z",
+       "last_update": "2026-10-15T15:50:22Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.24
+         "price": 2.16
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.65
+         "price": 1.7
         }
        ]
       }
@@ -2796,32 +2443,11 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-10-15T10:24:08Z",
+     "last_update": "2026-10-15T15:48:15Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:24:08Z",
-       "outcomes": [
-        {
-         "name": "Maja Chwalinska",
-         "price": 2.12
-        },
-        {
-         "name": "Maria Sakkari",
-         "price": 1.59
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-15T10:25:51Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:48:15Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
@@ -2836,21 +2462,42 @@
      ]
     },
     {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:28Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.15
+         "price": 1.97
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.7
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-10-15T15:49:31Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:31Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.75
         }
        ]
       }
@@ -2859,19 +2506,19 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.15
+         "price": 2.08
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.7
+         "price": 1.75
         }
        ]
       }
@@ -2880,11 +2527,53 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-10-15T10:25:51Z",
+     "last_update": "2026-10-15T15:49:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:51Z",
+       "last_update": "2026-10-15T15:49:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-10-15T15:50:04Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:04Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.05
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.62
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-10-15T15:50:05Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:50:05Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
@@ -2899,13 +2588,13 @@
      ]
     },
     {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-10-15T10:25:53Z",
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
@@ -2913,28 +2602,49 @@
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.58
+         "price": 1.7
         }
        ]
       }
      ]
     },
     {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-10-15T10:25:53Z",
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-10-15T15:50:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-15T10:25:53Z",
+       "last_update": "2026-10-15T15:50:03Z",
        "outcomes": [
         {
          "name": "Maja Chwalinska",
-         "price": 2.2
+         "price": 2.16
         },
         {
          "name": "Maria Sakkari",
-         "price": 1.64
+         "price": 1.76
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-10-15T15:49:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-15T15:49:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.09
+        },
+        {
+         "name": "Maria Sakkari",
+         "price": 1.78
         }
        ]
       }
