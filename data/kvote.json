@@ -11,33 +11,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-10-17T14:30:44Z",
+     "last_update": "2026-10-17T19:44:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:44Z",
+       "last_update": "2026-10-17T19:44:28Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.2
+         "price": 2.26
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.75
+         "price": 1.77
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-17T14:30:44Z",
+       "last_update": "2026-10-17T19:44:28Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.34
+         "price": 2.3
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.84
+         "price": 1.79
         }
        ]
       }
@@ -46,19 +46,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-10-17T14:30:45Z",
+     "last_update": "2026-10-17T19:44:09Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:45Z",
+       "last_update": "2026-10-17T19:44:09Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.27
+         "price": 2.13
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.64
+         "price": 1.73
         }
        ]
       }
@@ -67,19 +67,19 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-10-17T14:30:23Z",
+     "last_update": "2026-10-17T19:43:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:43:47Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.27
+         "price": 2.13
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.64
+         "price": 1.73
         }
        ]
       }
@@ -88,19 +88,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-10-17T14:30:23Z",
+     "last_update": "2026-10-17T19:44:08Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:44:08Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.25
+         "price": 2.1
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.62
+         "price": 1.72
         }
        ]
       }
@@ -109,11 +109,11 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-10-17T14:30:23Z",
+     "last_update": "2026-10-17T19:44:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:44:47Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
@@ -121,7 +121,7 @@
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.55
+         "price": 1.71
         }
        ]
       }
@@ -130,19 +130,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-10-17T14:29:58Z",
+     "last_update": "2026-10-17T19:44:08Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:29:58Z",
+       "last_update": "2026-10-17T19:44:08Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.3
+         "price": 2.15
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.66
+         "price": 1.74
         }
        ]
       }
@@ -151,19 +151,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-10-17T14:29:57Z",
+     "last_update": "2026-10-17T19:44:07Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:29:57Z",
+       "last_update": "2026-10-17T19:44:07Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.17
+         "price": 2.12
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.7
+         "price": 1.73
         }
        ]
       }
@@ -172,19 +172,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-10-17T14:29:57Z",
+     "last_update": "2026-10-17T19:44:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:29:57Z",
+       "last_update": "2026-10-17T19:44:47Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.2
+         "price": 2.17
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.7
+         "price": 1.72
         }
        ]
       }
@@ -193,19 +193,19 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-10-17T14:30:02Z",
+     "last_update": "2026-10-17T19:44:52Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:02Z",
+       "last_update": "2026-10-17T19:44:52Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.19
+         "price": 2.15
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.69
+         "price": 1.71
         }
        ]
       }
@@ -214,19 +214,19 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-10-17T14:30:22Z",
+     "last_update": "2026-10-17T19:44:07Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:22Z",
+       "last_update": "2026-10-17T19:44:07Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.2
+         "price": 2.1
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.67
+         "price": 1.73
         }
        ]
       }
@@ -235,19 +235,19 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-17T14:30:22Z",
+     "last_update": "2026-10-17T19:44:48Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:22Z",
+       "last_update": "2026-10-17T19:44:48Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.2
+         "price": 2.1
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.67
+         "price": 1.73
         }
        ]
       }
@@ -256,33 +256,33 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-17T14:30:23Z",
+     "last_update": "2026-10-17T19:44:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:44:29Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.2
+         "price": 2.26
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.74
+         "price": 1.78
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:44:29Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.36
+         "price": 2.28
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.84
+         "price": 1.79
         }
        ]
       }
@@ -291,11 +291,11 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-17T14:30:21Z",
+     "last_update": "2026-10-17T19:44:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:21Z",
+       "last_update": "2026-10-17T19:44:47Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
@@ -312,19 +312,19 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-10-17T14:29:57Z",
+     "last_update": "2026-10-17T19:44:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:29:57Z",
+       "last_update": "2026-10-17T19:44:29Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.15
+         "price": 2.16
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.7
+         "price": 1.73
         }
        ]
       }
@@ -333,19 +333,19 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-10-17T14:30:23Z",
+     "last_update": "2026-10-17T19:44:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:23Z",
+       "last_update": "2026-10-17T19:44:28Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.05
+         "price": 2.04
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.63
+         "price": 1.64
         }
        ]
       }
@@ -354,19 +354,19 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-10-17T14:30:45Z",
+     "last_update": "2026-10-17T19:44:47Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:45Z",
+       "last_update": "2026-10-17T19:44:47Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.15
+         "price": 2.16
         },
         {
          "name": "Rafael Jodar",
-         "price": 1.7
+         "price": 1.73
         }
        ]
       }
@@ -375,15 +375,36 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-10-17T14:30:45Z",
+     "last_update": "2026-10-17T19:44:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:45Z",
+       "last_update": "2026-10-17T19:44:50Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.15
+         "price": 2.16
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.73
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-10-17T19:44:31Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:31Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 2.16
         },
         {
          "name": "Rafael Jodar",
@@ -394,21 +415,467 @@
      ]
     },
     {
-     "key": "gtbets",
-     "title": "GTbets",
-     "last_update": "2026-10-17T14:30:43Z",
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-10-17T19:44:48Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-17T14:30:43Z",
+       "last_update": "2026-10-17T19:44:48Z",
        "outcomes": [
         {
          "name": "Alejandro Davidovich Fokina",
-         "price": 2.16
+         "price": 2.15
+        },
+        {
+         "name": "Rafael Jodar",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Alejandro Davidovich Fokina",
+         "price": 2.22
         },
         {
          "name": "Rafael Jodar",
          "price": 1.7
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "tennis_wta_wuhan_open": [
+  {
+   "id": "6c0df7365e0bd69dc2354b2fa6434919",
+   "sport_key": "tennis_wta_wuhan_open",
+   "sport_title": "WTA Wuhan Open",
+   "commence_time": "2026-10-18T10:30:00Z",
+   "home_team": "Maja Chwalinska",
+   "away_team": "Sonay Kartal",
+   "bookmakers": [
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-10-17T19:44:33Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:33Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.0
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.82
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-10-17T19:44:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:29Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.14
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.86
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-10-17T19:44:29Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.18
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.88
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.02
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.0
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-10-17T19:44:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.02
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.83
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.0
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-10-17T19:44:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.78
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-10-17T19:44:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.78
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.78
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-17T19:44:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:29Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.96
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-10-17T19:44:30Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:30Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.02
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.88
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.76
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betclic_fr",
+     "title": "Betclic (FR)",
+     "last_update": "2026-10-17T19:44:04Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:04Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.89
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.76
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-10-17T19:44:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.95
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.83
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-10-17T19:43:47Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:43:47Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.02
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-10-17T19:43:46Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:43:46Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.0
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-10-17T19:44:48Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:48Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.92
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.72
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 2.08
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.83
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-10-17T19:44:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-17T19:44:28Z",
+       "outcomes": [
+        {
+         "name": "Maja Chwalinska",
+         "price": 1.93
+        },
+        {
+         "name": "Sonay Kartal",
+         "price": 1.88
         }
        ]
       }
