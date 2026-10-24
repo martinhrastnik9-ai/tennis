@@ -1,483 +1,25 @@
 {
  "tennis_wta_ningbo_open": [
   {
-   "id": "3849e1db276f31bcb15aad1cca44184d",
-   "sport_key": "tennis_wta_ningbo_open",
-   "sport_title": "WTA Ningbo Open",
-   "commence_time": "2026-10-24T07:00:00Z",
-   "home_team": "Leylah Fernandez",
-   "away_team": "Marie Bouzkova",
-   "bookmakers": [
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-23T20:42:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:18Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.89
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.88
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "marathonbet",
-     "title": "Marathon Bet",
-     "last_update": "2026-10-23T20:42:21Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:21Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.9
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.9
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.98
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.95
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 2.06
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 2.02
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.98
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.95
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 2.06
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 2.02
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-10-23T20:41:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:52Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.92
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.92
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.91
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.91
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.79
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.78
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.91
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.91
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-10-23T20:41:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:52Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.89
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.88
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-10-23T20:42:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:18Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.91
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.91
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.82
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.8
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-10-23T20:41:53Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:53Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.9
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.9
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.85
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.79
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.93
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.87
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-10-23T20:42:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:19Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.93
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.87
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.93
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.87
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.9
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.8
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-10-23T20:42:16Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:16Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.95
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.93
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betonlineag",
-     "title": "BetOnline.ag",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.93
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.89
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-10-23T20:42:16Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:16Z",
-       "outcomes": [
-        {
-         "name": "Leylah Fernandez",
-         "price": 1.93
-        },
-        {
-         "name": "Marie Bouzkova",
-         "price": 1.89
-        }
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "ae319b5b7c6cbef88dda71720672c0c6",
    "sport_key": "tennis_wta_ningbo_open",
    "sport_title": "WTA Ningbo Open",
-   "commence_time": "2026-10-24T09:30:00Z",
+   "commence_time": "2026-10-24T09:51:00Z",
    "home_team": "Elena Rybakina",
    "away_team": "Diana Shnaider",
    "bookmakers": [
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-10-23T20:42:19Z",
+     "last_update": "2026-10-24T09:53:01Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:19Z",
+       "last_update": "2026-10-24T09:53:01Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.5
+         "price": 2.48
         },
         {
          "name": "Elena Rybakina",
@@ -490,19 +32,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-10-23T20:41:52Z",
+     "last_update": "2026-10-24T09:51:14Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:52Z",
+       "last_update": "2026-10-24T09:51:14Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.63
+         "price": 2.83
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.51
+         "price": 1.45
         }
        ]
       }
@@ -511,11 +53,11 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-10-23T20:42:15Z",
+     "last_update": "2026-10-24T09:53:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
@@ -523,21 +65,21 @@
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.56
+         "price": 1.57
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.78
+         "price": 2.76
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.57
+         "price": 1.58
         }
        ]
       }
@@ -546,15 +88,15 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-10-23T20:41:27Z",
+     "last_update": "2026-10-24T09:53:24Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
+       "last_update": "2026-10-24T09:53:24Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.5
+         "price": 2.48
         },
         {
          "name": "Elena Rybakina",
@@ -567,78 +109,15 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-10-23T20:42:15Z",
+     "last_update": "2026-10-24T09:53:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
          "price": 2.5
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.53
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-10-23T20:42:15Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.5
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.53
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-10-23T20:41:27Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.38
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.47
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-10-23T20:42:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:18Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.6
         },
         {
          "name": "Elena Rybakina",
@@ -649,13 +128,13 @@
      ]
     },
     {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-10-23T20:41:27Z",
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-10-24T09:52:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
+       "last_update": "2026-10-24T09:52:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
@@ -663,7 +142,70 @@
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.53
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-10-24T09:53:01Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-24T09:53:01Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 2.32
+        },
+        {
+         "name": "Elena Rybakina",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-10-24T09:52:20Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-24T09:52:20Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 2.55
+        },
+        {
+         "name": "Elena Rybakina",
+         "price": 1.52
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-10-24T09:53:01Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-10-24T09:53:01Z",
+       "outcomes": [
+        {
+         "name": "Diana Shnaider",
+         "price": 2.38
+        },
+        {
+         "name": "Elena Rybakina",
+         "price": 1.48
         }
        ]
       }
@@ -672,15 +214,15 @@
     {
      "key": "marathonbet",
      "title": "Marathon Bet",
-     "last_update": "2026-10-23T20:42:21Z",
+     "last_update": "2026-10-24T09:53:08Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:21Z",
+       "last_update": "2026-10-24T09:53:08Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.62
+         "price": 2.54
         },
         {
          "name": "Elena Rybakina",
@@ -693,61 +235,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-10-23T20:42:15Z",
+     "last_update": "2026-10-24T09:38:58Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:38:58Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.4
+         "price": 2.45
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.42
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-10-23T20:42:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:18Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.6
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.48
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-10-23T20:41:52Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:41:52Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.6
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.48
+         "price": 1.47
         }
        ]
       }
@@ -756,15 +256,15 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-10-23T20:42:15Z",
+     "last_update": "2026-10-24T09:53:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.74
+         "price": 2.68
         },
         {
          "name": "Elena Rybakina",
@@ -774,15 +274,15 @@
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-10-23T20:42:15Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.76
+         "price": 2.8
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.57
+         "price": 1.6
         }
        ]
       }
@@ -791,19 +291,19 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-10-23T20:41:27Z",
+     "last_update": "2026-10-24T09:53:22Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
+       "last_update": "2026-10-24T09:53:22Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.65
+         "price": 2.5
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.42
+         "price": 1.45
         }
        ]
       }
@@ -812,19 +312,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-10-23T20:41:27Z",
+     "last_update": "2026-10-24T09:53:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
+       "last_update": "2026-10-24T09:53:03Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.45
+         "price": 2.5
         },
         {
          "name": "Elena Rybakina",
-         "price": 1.43
+         "price": 1.49
         }
        ]
       }
@@ -833,15 +333,15 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-10-23T20:41:53Z",
+     "last_update": "2026-10-24T09:53:23Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:53Z",
+       "last_update": "2026-10-24T09:53:23Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.65
+         "price": 2.35
         },
         {
          "name": "Elena Rybakina",
@@ -854,11 +354,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-10-23T20:41:27Z",
+     "last_update": "2026-10-24T09:40:25Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:41:27Z",
+       "last_update": "2026-10-24T09:40:25Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
@@ -875,40 +375,19 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-10-23T20:42:16Z",
+     "last_update": "2026-10-24T09:53:21Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-10-23T20:42:16Z",
+       "last_update": "2026-10-24T09:53:21Z",
        "outcomes": [
         {
          "name": "Diana Shnaider",
-         "price": 2.6
+         "price": 2.64
         },
         {
          "name": "Elena Rybakina",
          "price": 1.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betanysports",
-     "title": "BetAnything",
-     "last_update": "2026-10-23T20:42:16Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-10-23T20:42:16Z",
-       "outcomes": [
-        {
-         "name": "Diana Shnaider",
-         "price": 2.55
-        },
-        {
-         "name": "Elena Rybakina",
-         "price": 1.54
         }
        ]
       }
