@@ -4,61 +4,40 @@
    "id": "10a66a309af482f75813cc0d9ce0bdd1",
    "sport_key": "tennis_atp_paris_masters",
    "sport_title": "ATP Paris Masters",
-   "commence_time": "2026-11-06T13:00:00Z",
+   "commence_time": "2026-11-06T13:07:19Z",
    "home_team": "Ben Shelton",
    "away_team": "Tommy Paul",
    "bookmakers": [
     {
-     "key": "gtbets",
-     "title": "GTbets",
-     "last_update": "2026-11-05T22:57:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.04
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.79
-        }
-       ]
-      }
-     ]
-    },
-    {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.18
+         "price": 2.58
         },
         {
          "name": "Tommy Paul",
-         "price": 1.84
+         "price": 1.62
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.2
+         "price": 2.62
         },
         {
          "name": "Tommy Paul",
-         "price": 1.85
+         "price": 1.63
         }
        ]
       }
@@ -67,19 +46,19 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-11-05T22:56:57Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:57Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.12
+         "price": 2.35
         },
         {
          "name": "Tommy Paul",
-         "price": 1.73
+         "price": 1.57
         }
        ]
       }
@@ -88,40 +67,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.12
+         "price": 2.35
         },
         {
          "name": "Tommy Paul",
-         "price": 1.73
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-11-05T22:56:32Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:31Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.14
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.74
+         "price": 1.57
         }
        ]
       }
@@ -130,19 +88,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:03Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.0
+         "price": 1.95
         },
         {
          "name": "Tommy Paul",
-         "price": 1.61
+         "price": 1.55
         }
        ]
       }
@@ -151,19 +109,19 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-11-05T22:57:07Z",
+     "last_update": "2026-11-06T13:14:33Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:07Z",
+       "last_update": "2026-11-06T13:14:33Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.01
+         "price": 1.84
         },
         {
          "name": "Tommy Paul",
-         "price": 1.66
+         "price": 1.71
         }
        ]
       }
@@ -172,19 +130,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:28Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.15
+         "price": 2.25
         },
         {
          "name": "Tommy Paul",
-         "price": 1.7
+         "price": 1.54
         }
        ]
       }
@@ -193,11 +151,11 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:51Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:51Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
@@ -205,7 +163,7 @@
         },
         {
          "name": "Tommy Paul",
-         "price": 1.62
+         "price": 1.52
         }
        ]
       }
@@ -214,19 +172,19 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:26Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:26Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.1
+         "price": 2.38
         },
         {
          "name": "Tommy Paul",
-         "price": 1.73
+         "price": 1.53
         }
        ]
       }
@@ -235,120 +193,15 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
          "price": 2.1
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.73
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.02
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.66
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-11-05T22:56:33Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.12
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.72
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.12
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.72
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.12
-        },
-        {
-         "name": "Tommy Paul",
-         "price": 1.72
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "tipico_de",
-     "title": "Tipico",
-     "last_update": "2026-11-05T22:57:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Ben Shelton",
-         "price": 2.15
         },
         {
          "name": "Tommy Paul",
@@ -359,21 +212,126 @@
      ]
     },
     {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-11-05T22:57:18Z",
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.17
+         "price": 2.4
         },
         {
          "name": "Tommy Paul",
-         "price": 1.76
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-11-06T13:18:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Ben Shelton",
+         "price": 2.38
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 1.56
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-11-06T13:18:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:27Z",
+       "outcomes": [
+        {
+         "name": "Ben Shelton",
+         "price": 2.4
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 1.47
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Ben Shelton",
+         "price": 2.38
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 1.56
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-11-06T13:18:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:27Z",
+       "outcomes": [
+        {
+         "name": "Ben Shelton",
+         "price": 2.2
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 1.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Ben Shelton",
+         "price": 2.39
+        },
+        {
+         "name": "Tommy Paul",
+         "price": 1.62
         }
        ]
       }
@@ -382,19 +340,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-11-05T22:56:34Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:34Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.18
+         "price": 2.35
         },
         {
          "name": "Tommy Paul",
-         "price": 1.75
+         "price": 1.6
         }
        ]
       }
@@ -403,33 +361,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.18
+         "price": 2.34
         },
         {
          "name": "Tommy Paul",
-         "price": 1.84
+         "price": 1.73
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.2
+         "price": 2.38
         },
         {
          "name": "Tommy Paul",
-         "price": 1.85
+         "price": 1.74
         }
        ]
       }
@@ -438,19 +396,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:10:45Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:10:45Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.16
+         "price": 2.06
         },
         {
          "name": "Tommy Paul",
-         "price": 1.74
+         "price": 1.8
         }
        ]
       }
@@ -459,19 +417,19 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-11-05T22:56:36Z",
+     "last_update": "2026-11-06T13:05:35Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:36Z",
+       "last_update": "2026-11-06T13:05:35Z",
        "outcomes": [
         {
          "name": "Ben Shelton",
-         "price": 2.05
+         "price": 2.1
         },
         {
          "name": "Tommy Paul",
-         "price": 1.74
+         "price": 1.77
         }
        ]
       }
@@ -490,11 +448,25 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Luca Van Assche",
+         "price": 1.63
+        },
+        {
+         "name": "Rinky Hijikata",
+         "price": 2.56
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -502,21 +474,7 @@
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.52
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Luca Van Assche",
-         "price": 1.65
-        },
-        {
-         "name": "Rinky Hijikata",
-         "price": 2.56
+         "price": 2.58
         }
        ]
       }
@@ -525,11 +483,11 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:26Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:26Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -546,19 +504,19 @@
     {
      "key": "winamax_fr",
      "title": "Winamax (FR)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:51Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:51Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.52
+         "price": 1.5
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.2
+         "price": 2.4
         }
        ]
       }
@@ -567,19 +525,19 @@
     {
      "key": "betsson",
      "title": "Betsson",
-     "last_update": "2026-11-05T22:56:57Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:57Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.59
+         "price": 1.58
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.37
+         "price": 2.4
         }
        ]
       }
@@ -588,15 +546,36 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-11-05T22:56:34Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:34Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.61
+         "price": 1.59
+        },
+        {
+         "name": "Rinky Hijikata",
+         "price": 2.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-11-06T13:18:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:28Z",
+       "outcomes": [
+        {
+         "name": "Luca Van Assche",
+         "price": 1.58
         },
         {
          "name": "Rinky Hijikata",
@@ -607,13 +586,13 @@
      ]
     },
     {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -621,28 +600,7 @@
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.35
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "onexbet",
-     "title": "1xBet",
-     "last_update": "2026-11-05T22:56:32Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:31Z",
-       "outcomes": [
-        {
-         "name": "Luca Van Assche",
-         "price": 1.59
-        },
-        {
-         "name": "Rinky Hijikata",
-         "price": 2.42
+         "price": 2.44
         }
        ]
       }
@@ -651,19 +609,19 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:03Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.51
+         "price": 1.49
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.3
+         "price": 2.4
         }
        ]
       }
@@ -672,11 +630,11 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -693,19 +651,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.59
+         "price": 1.58
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.37
+         "price": 2.4
         }
        ]
       }
@@ -714,19 +672,19 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-11-05T22:57:07Z",
+     "last_update": "2026-11-06T13:14:33Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:07Z",
+       "last_update": "2026-11-06T13:14:33Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.53
+         "price": 1.52
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.23
+         "price": 2.26
         }
        ]
       }
@@ -735,11 +693,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -756,33 +714,33 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.64
+         "price": 1.61
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.52
+         "price": 2.5
         }
        ]
       },
       {
        "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.65
+         "price": 1.67
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.56
+         "price": 2.64
         }
        ]
       }
@@ -791,11 +749,11 @@
     {
      "key": "pinnacle",
      "title": "Pinnacle",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
@@ -803,7 +761,7 @@
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.49
+         "price": 2.53
         }
        ]
       }
@@ -812,19 +770,19 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.54
+         "price": 1.49
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.23
+         "price": 2.33
         }
        ]
       }
@@ -833,19 +791,19 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.61
+         "price": 1.55
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.32
+         "price": 2.45
         }
        ]
       }
@@ -854,19 +812,19 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.61
+         "price": 1.55
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.32
+         "price": 2.45
         }
        ]
       }
@@ -875,19 +833,19 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.61
+         "price": 1.55
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.32
+         "price": 2.45
         }
        ]
       }
@@ -896,19 +854,19 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.67
+         "price": 1.55
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.15
+         "price": 2.4
         }
        ]
       }
@@ -917,19 +875,19 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.59
+         "price": 1.57
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.47
+         "price": 2.53
         }
        ]
       }
@@ -938,19 +896,19 @@
     {
      "key": "betanysports",
      "title": "BetAnything",
-     "last_update": "2026-11-05T22:56:36Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:36Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Luca Van Assche",
-         "price": 1.59
+         "price": 1.56
         },
         {
          "name": "Rinky Hijikata",
-         "price": 2.4
+         "price": 2.55
         }
        ]
       }
@@ -969,19 +927,19 @@
     {
      "key": "unibet_se",
      "title": "Unibet (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.35
+         "price": 1.33
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.25
+         "price": 3.3
         }
        ]
       }
@@ -990,19 +948,19 @@
     {
      "key": "unibet_nl",
      "title": "Unibet (NL)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.35
+         "price": 1.33
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.25
+         "price": 3.3
         }
        ]
       }
@@ -1011,11 +969,25 @@
     {
      "key": "betfair_ex_eu",
      "title": "Betfair",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.38
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.55
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
@@ -1023,21 +995,7 @@
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.5
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.4
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.55
+         "price": 3.6
         }
        ]
       }
@@ -1046,19 +1004,19 @@
     {
      "key": "pmu_fr",
      "title": "PMU (FR)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.29
+         "price": 1.28
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.05
+         "price": 3.15
         }
        ]
       }
@@ -1067,11 +1025,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
@@ -1088,19 +1046,19 @@
     {
      "key": "leovegas_se",
      "title": "LeoVegas (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.35
+         "price": 1.33
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.25
+         "price": 3.3
         }
        ]
       }
@@ -1109,11 +1067,11 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
@@ -1130,19 +1088,19 @@
     {
      "key": "coolbet",
      "title": "Coolbet",
-     "last_update": "2026-11-05T22:56:34Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:34Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.35
+         "price": 1.37
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.45
+         "price": 3.35
         }
        ]
       }
@@ -1151,19 +1109,19 @@
     {
      "key": "nordicbet",
      "title": "Nordic Bet",
-     "last_update": "2026-11-05T22:57:19Z",
+     "last_update": "2026-11-06T13:18:29Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.33
+         "price": 1.34
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.35
+         "price": 3.3
         }
        ]
       }
@@ -1172,36 +1130,15 @@
     {
      "key": "unibet_fr",
      "title": "Unibet (FR)",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:03Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:03Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.28
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.15
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-11-05T22:56:57Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:57Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.33
+         "price": 1.26
         },
         {
          "name": "Taylor Fritz",
@@ -1212,21 +1149,42 @@
      ]
     },
     {
-     "key": "betclic_fr",
-     "title": "Betclic (FR)",
-     "last_update": "2026-11-05T22:57:07Z",
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:07Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.29
+         "price": 1.34
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.05
+         "price": 3.3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betclic_fr",
+     "title": "Betclic (FR)",
+     "last_update": "2026-11-06T13:14:33Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:14:33Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.3
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.0
         }
        ]
       }
@@ -1235,19 +1193,19 @@
     {
      "key": "sport888",
      "title": "888sport",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:26Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:26Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.33
+         "price": 1.36
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.3
+         "price": 3.1
         }
        ]
       }
@@ -1256,19 +1214,19 @@
     {
      "key": "williamhill",
      "title": "William Hill",
-     "last_update": "2026-11-05T22:56:55Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.33
+         "price": 1.36
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.3
+         "price": 3.1
         }
        ]
       }
@@ -1277,92 +1235,15 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
-         "price": 1.3
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.4
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-11-05T22:56:33Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.29
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.05
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "winamax_de",
-     "title": "Winamax (DE)",
-     "last_update": "2026-11-05T22:56:33Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.33
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.3
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "matchbook",
-     "title": "Matchbook",
-     "last_update": "2026-11-05T22:57:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.39
-        },
-        {
-         "name": "Taylor Fritz",
-         "price": 3.5
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Carlos Alcaraz",
-         "price": 1.4
+         "price": 1.28
         },
         {
          "name": "Taylor Fritz",
@@ -1373,13 +1254,34 @@
      ]
     },
     {
-     "key": "pinnacle",
-     "title": "Pinnacle",
-     "last_update": "2026-11-05T22:57:18Z",
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-11-06T13:18:51Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:51Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.27
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.25
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-11-06T13:18:28Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:28Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
@@ -1387,7 +1289,63 @@
         },
         {
          "name": "Taylor Fritz",
-         "price": 3.45
+         "price": 3.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-11-06T13:18:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.37
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.35
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.43
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.37
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.34
         }
        ]
       }
@@ -1396,11 +1354,11 @@
     {
      "key": "betonlineag",
      "title": "BetOnline.ag",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Carlos Alcaraz",
@@ -1409,6 +1367,27 @@
         {
          "name": "Taylor Fritz",
          "price": 3.37
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betanysports",
+     "title": "BetAnything",
+     "last_update": "2026-11-06T13:18:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:29Z",
+       "outcomes": [
+        {
+         "name": "Carlos Alcaraz",
+         "price": 1.35
+        },
+        {
+         "name": "Taylor Fritz",
+         "price": 3.35
         }
        ]
       }
@@ -1427,19 +1406,19 @@
     {
      "key": "onexbet",
      "title": "1xBet",
-     "last_update": "2026-11-05T22:56:32Z",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.54
+         "price": 1.45
         },
         {
          "name": "Nuno Borges",
-         "price": 2.54
+         "price": 2.84
         }
        ]
       }
@@ -1448,260 +1427,15 @@
     {
      "key": "betclic_fr",
      "title": "Betclic (FR)",
-     "last_update": "2026-11-05T22:57:07Z",
+     "last_update": "2026-11-06T13:14:33Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:07Z",
+       "last_update": "2026-11-06T13:14:33Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.47
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.37
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betfair_ex_eu",
-     "title": "Betfair",
-     "last_update": "2026-11-05T22:57:18Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.48
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.52
-        }
-       ]
-      },
-      {
-       "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.65
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 3.15
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "williamhill",
-     "title": "William Hill",
-     "last_update": "2026-11-05T22:56:55Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.53
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_fr",
-     "title": "Unibet (FR)",
-     "last_update": "2026-11-05T22:56:55Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:55Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.43
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.35
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "nordicbet",
-     "title": "Nordic Bet",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.53
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "pmu_fr",
-     "title": "PMU (FR)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.45
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.4
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "leovegas_se",
-     "title": "LeoVegas (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.51
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_se",
-     "title": "Unibet (SE)",
-     "last_update": "2026-11-05T22:57:19Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:57:19Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.51
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "sport888",
-     "title": "888sport",
-     "last_update": "2026-11-05T22:56:32Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:32Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.53
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.5
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "unibet_nl",
-     "title": "Unibet (NL)",
-     "last_update": "2026-11-05T22:56:33Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.51
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "betsson",
-     "title": "Betsson",
-     "last_update": "2026-11-05T22:56:57Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:57Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.53
-        },
-        {
-         "name": "Nuno Borges",
-         "price": 2.55
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "key": "coolbet",
-     "title": "Coolbet",
-     "last_update": "2026-11-05T22:56:34Z",
-     "markets": [
-      {
-       "key": "h2h",
-       "last_update": "2026-11-05T22:56:34Z",
-       "outcomes": [
-        {
-         "name": "Casper Ruud",
-         "price": 1.55
+         "price": 1.4
         },
         {
          "name": "Nuno Borges",
@@ -1712,21 +1446,266 @@
      ]
     },
     {
-     "key": "winamax_fr",
-     "title": "Winamax (FR)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-11-06T13:18:50Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:50Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.47
+         "price": 1.48
         },
         {
          "name": "Nuno Borges",
-         "price": 2.35
+         "price": 3.0
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.5
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 3.05
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.44
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-11-06T13:18:03Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:03Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.33
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-11-06T13:18:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:29Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.45
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-11-06T13:18:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:27Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.38
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.65
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-11-06T13:18:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:27Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.43
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.43
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-11-06T13:18:26Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:26Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.44
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-11-06T13:18:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.43
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-11-06T13:18:27Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:27Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.45
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coolbet",
+     "title": "Coolbet",
+     "last_update": "2026-11-06T13:18:29Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:29Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.46
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-11-06T13:18:51Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:51Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.38
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.75
         }
        ]
       }
@@ -1735,19 +1714,19 @@
     {
      "key": "winamax_de",
      "title": "Winamax (DE)",
-     "last_update": "2026-11-05T22:56:33Z",
+     "last_update": "2026-11-06T13:18:28Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:56:33Z",
+       "last_update": "2026-11-06T13:18:28Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.52
+         "price": 1.46
         },
         {
          "name": "Nuno Borges",
-         "price": 2.5
+         "price": 2.85
         }
        ]
       }
@@ -1756,11 +1735,11 @@
     {
      "key": "gtbets",
      "title": "GTbets",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -1768,7 +1747,7 @@
         },
         {
          "name": "Nuno Borges",
-         "price": 2.56
+         "price": 2.73
         }
        ]
       }
@@ -1777,19 +1756,19 @@
     {
      "key": "tipico_de",
      "title": "Tipico",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:27Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:27Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.5
+         "price": 1.45
         },
         {
          "name": "Nuno Borges",
-         "price": 2.55
+         "price": 2.7
         }
        ]
       }
@@ -1798,11 +1777,67 @@
     {
      "key": "matchbook",
      "title": "Matchbook",
-     "last_update": "2026-11-05T22:57:18Z",
+     "last_update": "2026-11-06T13:18:49Z",
      "markets": [
       {
        "key": "h2h",
-       "last_update": "2026-11-05T22:57:18Z",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.48
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.92
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-06T13:18:49Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.53
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 3.1
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pinnacle",
+     "title": "Pinnacle",
+     "last_update": "2026-11-06T13:18:50Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:50Z",
+       "outcomes": [
+        {
+         "name": "Casper Ruud",
+         "price": 1.46
+        },
+        {
+         "name": "Nuno Borges",
+         "price": 2.9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-11-06T13:18:49Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:49Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
@@ -1810,21 +1845,28 @@
         },
         {
          "name": "Nuno Borges",
-         "price": 2.52
+         "price": 2.83
         }
        ]
-      },
+      }
+     ]
+    },
+    {
+     "key": "betanysports",
+     "title": "BetAnything",
+     "last_update": "2026-11-06T13:18:29Z",
+     "markets": [
       {
-       "key": "h2h_lay",
-       "last_update": "2026-11-05T22:57:18Z",
+       "key": "h2h",
+       "last_update": "2026-11-06T13:18:29Z",
        "outcomes": [
         {
          "name": "Casper Ruud",
-         "price": 1.65
+         "price": 1.44
         },
         {
          "name": "Nuno Borges",
-         "price": 3.15
+         "price": 2.85
         }
        ]
       }
