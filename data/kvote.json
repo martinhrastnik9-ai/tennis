@@ -1,1 +1,1231 @@
-{}
+{
+ "tennis_wta_finals": [
+  {
+   "id": "0066b4bf94846e710339ce11591e33f8",
+   "sport_key": "tennis_wta_finals",
+   "sport_title": "WTA Finals",
+   "commence_time": "2026-11-10T22:09:00Z",
+   "home_team": "Coco Gauff",
+   "away_team": "Linda Noskova",
+   "bookmakers": [
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.76
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.56
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.8
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-11-10T22:35:38Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:37Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.75
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.75
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.43
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.55
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.33
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.7
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.38
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.76
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.56
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.8
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.25
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-11-10T22:35:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:55Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.45
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.37
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.5
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.42
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-11-10T22:35:18Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:18Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.3
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.35
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.5
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.8
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-11-10T22:35:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:22Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.66
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.44
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.7
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Coco Gauff",
+         "price": 2.7
+        },
+        {
+         "name": "Linda Noskova",
+         "price": 1.45
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d87ade1e56f0c96e3b28b59dea344837",
+   "sport_key": "tennis_wta_finals",
+   "sport_title": "WTA Finals",
+   "commence_time": "2026-11-11T20:00:00Z",
+   "home_team": "Elina Svitolina",
+   "away_team": "Karolina Muchova",
+   "bookmakers": [
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.34
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.73
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.38
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.75
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.24
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.69
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-11-10T22:35:38Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:38Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.23
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.23
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.12
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.57
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.23
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.36
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.7
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.44
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.73
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.2
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-11-10T22:35:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:55Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.1
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.58
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.25
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.68
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-11-10T22:35:18Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:18Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.05
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.54
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.2
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.27
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.25
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.62
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-11-10T22:35:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:22Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.23
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.21
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.21
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.67
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betanysports",
+     "title": "BetAnything",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.15
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.69
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Elina Svitolina",
+         "price": 2.28
+        },
+        {
+         "name": "Karolina Muchova",
+         "price": 1.66
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1549c8585e649677db3579affc1da2e",
+   "sport_key": "tennis_wta_finals",
+   "sport_title": "WTA Finals",
+   "commence_time": "2026-11-11T21:10:00Z",
+   "home_team": "Aryna Sabalenka",
+   "away_team": "Mirra Andreeva",
+   "bookmakers": [
+    {
+     "key": "betfair_ex_eu",
+     "title": "Betfair",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.94
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 2.04
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.95
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 2.06
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betonlineag",
+     "title": "BetOnline.ag",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.91
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_nl",
+     "title": "Unibet (NL)",
+     "last_update": "2026-11-10T22:35:38Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:38Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.89
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.89
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_se",
+     "title": "Unibet (SE)",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.89
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.89
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "pmu_fr",
+     "title": "PMU (FR)",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.82
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.82
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "leovegas_se",
+     "title": "LeoVegas (SE)",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.89
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.89
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "matchbook",
+     "title": "Matchbook",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.94
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.97
+        }
+       ]
+      },
+      {
+       "key": "h2h_lay",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 2.04
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 2.06
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "williamhill",
+     "title": "William Hill",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.91
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_fr",
+     "title": "Winamax (FR)",
+     "last_update": "2026-11-10T22:35:55Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:55Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.8
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.82
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "winamax_de",
+     "title": "Winamax (DE)",
+     "last_update": "2026-11-10T22:35:54Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:54Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.92
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.96
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "unibet_fr",
+     "title": "Unibet (FR)",
+     "last_update": "2026-11-10T22:35:18Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:18Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.77
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sport888",
+     "title": "888sport",
+     "last_update": "2026-11-10T22:35:17Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:17Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.91
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.91
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "onexbet",
+     "title": "1xBet",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.92
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.97
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "tipico_de",
+     "title": "Tipico",
+     "last_update": "2026-11-10T22:35:35Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:35Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.85
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.93
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "marathonbet",
+     "title": "Marathon Bet",
+     "last_update": "2026-11-10T22:35:23Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:22Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.88
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.93
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betsson",
+     "title": "Betsson",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.89
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.92
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "nordicbet",
+     "title": "Nordic Bet",
+     "last_update": "2026-11-10T22:35:53Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:53Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.89
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.92
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "betanysports",
+     "title": "BetAnything",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.87
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.87
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "key": "gtbets",
+     "title": "GTbets",
+     "last_update": "2026-11-10T22:35:36Z",
+     "markets": [
+      {
+       "key": "h2h",
+       "last_update": "2026-11-10T22:35:36Z",
+       "outcomes": [
+        {
+         "name": "Aryna Sabalenka",
+         "price": 1.85
+        },
+        {
+         "name": "Mirra Andreeva",
+         "price": 1.99
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
